@@ -12,7 +12,7 @@ module johnson_counter (
 endmodule
 
 
-// Let?s say q = 4'b1100 (i.e., q[3] = 1, q[2] = 1, q[1] = 0, q[0] = 0)
+// Let's say q = 4'b1100 (i.e., q[3] = 1, q[2] = 1, q[1] = 0, q[0] = 0)
 // Now
 // ~q[3] = ~1 = 0
 // q[3:1] = 110  so on the next clock, q becomes 0110.
